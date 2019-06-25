@@ -1,0 +1,10 @@
+com\cognizant\taskmanager\controller\TaskController.class
+com\cognizant\taskmanager\repository\ParentTaskManagerRepository.class
+com\cognizant\taskmanager\dao\ParentTask.class
+com\cognizant\taskmanager\model\TaskObj.class
+com\cognizant\taskmanager\service\TaskService.class
+com\cognizant\taskmanager\TaskManager.class
+com\cognizant\taskmanager\dao\Task.class
+com\cognizant\taskmanager\controller\ParentTaskManagerController.class
+com\cognizant\taskmanager\repository\TaskRepository.class
+com\cognizant\taskmanager\service\ParentTaskManagerService.class
